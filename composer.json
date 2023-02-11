@@ -1,11 +1,11 @@
 {
-    "name": "Community Central",
-    "description": "C-Central makes communities great again",
+    "name": "Basic Skeleton",
+    "description": "Basic App Skeleton",
     "type": "project",
     "license": "AGPL",
     "authors": [
         {
-            "name": "CG"
+            "name": "AuthorX"
         }
     ],
     "require": {},
