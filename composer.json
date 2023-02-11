@@ -1,0 +1,15 @@
+{
+    "name": "Community Central",
+    "description": "C-Central makes communities great again",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "CG"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
